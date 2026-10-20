@@ -1,0 +1,130 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f2f5f9;
+    color: #26384a;
+    margin: 0;
+}
+
+.header {
+    background-color: #1d4c7c;
+    color: white;
+    text-align: center;
+    padding: 25px;
+    margin: 20px auto;
+    width: 75%;
+    border-radius: 15px;
+}
+
+.navbar {
+    margin-top: 25px;
+}
+
+.navbar a {
+    display: inline-block;
+    background-color: #315e8b;
+    color: white;
+    text-decoration: none;
+    padding: 10px 15px;
+    margin: 5px;
+    border: 1px solid #527ba4;
+    border-radius: 25px;
+}
+
+.section {
+    background-color: white;
+    width: 75%;
+    margin: 20px auto;
+    padding: 25px;
+    border: 1px solid #e1e8f0;
+    border-radius: 15px;
+    box-sizing: border-box;
+}
+
+.section h2 {
+    color: #174a7c;
+    border-bottom: 1px solid #d6e5f5;
+    padding-bottom: 12px;
+}
+
+.contact {
+    background-color: #1d4c7c;
+    color: white;
+    width: 75%;
+    margin: 20px auto;
+    padding: 25px;
+    border-radius: 15px;
+    box-sizing: border-box;
+}
+
+.footer {
+    background-color: #091d38;
+    color: white;
+    text-align: center;
+    width: 75%;
+    margin: 20px auto;
+    padding: 20px;
+    border-radius: 12px;
+    box-sizing: border-box;
+}
+
+.about-image {
+    float: left;
+    margin: 10px 20px 10px 0;
+}
+
+.about-image img {
+    width: 115px;
+    height: 115px;
+    border-radius: 50%;
+}
+
+.about-text {
+    margin-top: 10px;
+}
+
+
+
+.clear {
+    clear: both;
+}
+
+.skill-item {
+    display: inline-block;
+    vertical-align: top;
+    background-color: #f8fbff;
+    border: 1px solid #dce8f7;
+    border-radius: 12px;
+    width: 23%;
+    padding: 12px;
+    margin: 5px 0;
+    box-sizing: border-box;
+}
+
+.skill-item h3 {
+    color: #0868ad;
+    font-size: 16px;
+}
+
+.experience-item {
+    background-color: #f7f9fc;
+    border: 1px solid #e0e8f2;
+    border-left: 4px solid #0874c9;
+    border-radius: 10px;
+    padding: 15px;
+    margin: 20px 0;
+}
+
+.experience-item h4 {
+    color: #0868ad;
+}
+
+.contact a {
+    display: inline-block;
+    background-color: #315e8b;
+    color: white;
+    text-decoration: none;
+    padding: 10px 15px;
+    margin: 5px;
+    border: 1px solid #527ba4;
+    border-radius: 8px;
+}
